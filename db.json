@@ -1,0 +1,62 @@
+[
+	{
+		"id":"1",
+		"name":"Malaysia",
+		"parent_id":"0"
+	}, 
+	{
+		"id":"2",
+		"name":"Korea",
+		"parent_id":"0"
+	}, 
+	{
+		"id":"3",
+		"name":"New York",
+		"parent_id":"1"
+	}, 
+	{
+		"id":"4",
+		"name":"Johor",
+		"parent_id":"1"
+	}, 
+	{
+		"id":"7",
+		"name":"Kedah",
+		"parent_id":"1"
+	}, 
+	{
+		"id":"8",
+		"name":"Kelantan",
+		"parent_id":"1"
+	}, 
+	{
+		"id":"9",
+		"name":"Busan",
+		"parent_id":"2"
+	}, 
+	{
+		"id":"10",
+		"name":"Daegu",
+		"parent_id":"2"
+	}, 
+	{
+		"id":"11",
+		"name":"Daejeon",
+		"parent_id":"2"
+	}, 
+	{
+		"id":"12",
+		"name":"Gangwon Province",
+		"parent_id":"2"
+	}, 
+	{
+		"id":"13",
+		"name":"Gwangju",
+		"parent_id":"2"
+	}, 
+	{
+		"id":"14",
+		"name":"Gyeonggi Province",
+		"parent_id":"2"
+	}
+]
