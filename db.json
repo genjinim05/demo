@@ -1,10 +1,6 @@
 {
     "items": [
-	{
-		"productID":"0",
-		"itemName":"Select",
-		"unitPrice":"0"
-	}, 
+	{"productID":"0","itemName":"Select","unitPrice":0}, 
 	{
 		"productID":"1",
 		"itemName":"Nestle Honey Stars Cereal 500g",
@@ -55,10 +51,6 @@
 		"itemName":"San Remo Spaghetti No.5 Pasta 500g",
 		"unitPrice":4.35
 	}, 
-	{
-		"productID":"11",
-		"itemName":"Prego Carbonara Mushroom Pasta Sauce 295g",
-		"unitPrice":4.45
-	}
+	{"productID":"11","itemName":"Prego Carbonara Mushroom Pasta Sauce 295g","unitPrice":4.45}
    ]
 }
